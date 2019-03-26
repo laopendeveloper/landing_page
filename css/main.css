@@ -137,8 +137,8 @@ p {
     width: 100%;
 }
 #contact-left{
-display: flex;  
-flex-flow: column;
+    display: flex;  
+    flex-flow: column;
 }
 
 
